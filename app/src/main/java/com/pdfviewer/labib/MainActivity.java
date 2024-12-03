@@ -1,4 +1,4 @@
-package com.pdfviewer.foysaltech;
+package com.pdfviewer.labib;
 
 import android.os.Bundle;
 import androidx.activity.EdgeToEdge;

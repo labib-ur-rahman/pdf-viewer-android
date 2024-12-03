@@ -3,7 +3,6 @@ package com.github.pdfviewer;
 import android.graphics.RectF;
 import com.github.pdfviewer.model.PagePart;
 import com.github.pdfviewer.util.Constants;
-
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Comparator;
