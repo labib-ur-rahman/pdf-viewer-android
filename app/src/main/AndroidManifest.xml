@@ -16,6 +16,8 @@
         <!-- You can keep services, receivers, or providers here if necessary for the library.
         For now, no activity should be included unless your library requires it. -->
 
+        <!-- Modified by Labib -->
+
     </application>
 
 </manifest>
